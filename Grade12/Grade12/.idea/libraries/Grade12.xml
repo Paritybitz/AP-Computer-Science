@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Grade12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/20221101.zip!/" />
+      <root url="jar://$PROJECT_DIR$/20220926.zip!/" />
+      <root url="jar://$PROJECT_DIR$/20221010.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
