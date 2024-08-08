@@ -9,5 +9,5 @@ public class Bicycle extends Vehicle {
 
         _wheels = wheels;
         _pedals = pedals;
-    }
+    } 
 }
