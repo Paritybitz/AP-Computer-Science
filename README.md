@@ -1,5 +1,5 @@
 # APCS
-This is all my projects/work for AP comp sci class that I took 12th grade. It includes:
+This is all my projects/work for APCS
 - COWS (projects)
   - Instructions
   - Code
